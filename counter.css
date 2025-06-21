@@ -41,3 +41,13 @@ h1 {
   background-color: red;
   color: white;
 }
+
+.restart {
+  background-color: black;
+  color: wheat;
+}
+
+.plus {
+  background-color: green;
+  color: white;
+}
