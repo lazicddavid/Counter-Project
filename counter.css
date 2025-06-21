@@ -32,4 +32,12 @@ h1 {
 .button-container {
   padding: 0.7rem 1.5rem;
   font-size: 1.2rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.minus {
+  background-color: red;
+  color: white;
 }
