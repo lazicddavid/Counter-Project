@@ -48,9 +48,9 @@ h1 {
   color: white;
 }
 
-.btn.restart {
-  background-color: black;
-  color: wheat;
+.btn.reset {
+  background-color: gray;
+  color: white;
 }
 
 .btn.plus {
